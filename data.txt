@@ -1,0 +1,938 @@
+Skip to main content
+ Cell Death & Differentiation
+View all journals
+Search
+
+Log in
+Explore content
+
+About the journal
+
+Publish with us
+
+Sign up for alerts
+
+RSS feed
+nature   cell death & differentiation   review   article
+Published: 26 August 2005
+Stem cells and brain cancer
+
+U Galderisi, M Cipollaro & A Giordano 
+Cell Death & Differentiation volume 13, pages 5–11 (2006)Cite this article
+
+2304 Accesses
+50 Citations
+3 Altmetric
+Metrics details
+Abstract
+An increasing body of research is showing that cancers might contain their own stem cells. In fact, cancer cells, like stem cells, can proliferate indefinitely through a deregulated cellular self-renewal capacity. This raises the possibility that some features of tumor cells may be due to cancer stem cells. Stem cell-like cancer cells were isolated from several solid tumors. Now, evidence has shown that brain cancers, such as glioblastomas, medulloblastomas and astrocytomas, also contain cells that may be multipotent neural stem cell-like cells. In this review, we discuss the results of these studies, along with the molecular pathways that could be involved in cancer stem cell physiopathology.
+
+Introduction
+Over the past few years, several ‘dogmas’ regarding neural cell physiopathology have been challenged.
+
+The brain has traditionally been viewed as largely static with respect to its very limited cellular turnover and regenerative capacity. In the early 1990s, results from numerous laboratories have now firmly established that new neurons are generated in the adult mammalian, including in the human brain. These studies disproved the idea that neurogenesis in the mammalian central nervous system was restricted to the embryonic and early postnatal period.1, 2
+
+Another major discovery was the demonstration by Reynolds and Weiss1, 3 that neural stem cells (NSCs) persist in the mature brain, could be grown in culture and had the hallmark properties of stem cells: multipotency and self-renewal capacity.
+
+Lastly, there is compelling evidence that the so-called ‘cancer stem cells’ can promote several forms of brain tumors.
+
+Cancer stem cells
+The identification of reservoirs of stem cells within adult tissues demonstrates that all tissues may have stem cells. Stem cells within normal tissues are defined by common characteristics: self-renewal to maintain the stem cell pool over time; regulation of stem cell number through a strict balance between cell proliferation, cell differentiation and cell death; ability to give rise to a broad range of differentiated cells.2, 4
+
+Like stem cells, cancer cells are widely thought to be able to proliferate indefinitely through a deregulated cellular self-renewal capacity. This raises the possibility that some of the clinical properties of tumor cells may be due to transformed stem cells.5
+
+In fact, there is increasing evidence that cancers might contain their own stem cells. Many cancers, like normal organs, seem to be maintained by a hierarchical organization that includes slowly dividing stem cells, rapidly dividing transit amplifying cells (precursor cells) and differentiated cells.5 The hypothesis of cancer stem cells arose from several observations, such as the pioneering work of Dick and co-workers.6, 7 They demonstrated that by progressively diluting a known number of leukemia cells, harvested from human patients, only very rare cells (called leukemia-initiating cells or LICs) had the ability to reproduce the leukemia in an immunodeficient mouse model. Dick speculated that LICs had a greater developmental potential than the vast majority of clone-forming leukemia cells and might even be stem cell like.6, 7
+
+Stem cell-like cancer cells were also isolated from myelomas and breast tumors; there is evidence suggesting that pancreatic and prostate cancers also could have mutated stem cells.8, 9, 10, 11
+
+All these observations have paved the way to a new model of cancer: the ‘stem cell model’ and, as a result, the term ‘cancer stem cell’ has been introduced. This is a cancer cell that has the ability to self-renew, giving rise to other malignant stem cells, as well as undergo differentiation to yield phenotypically diverse nontumorigenic cancer cells. The cell of origin for cancer stem cells remains unclear: they may or may not be derived from their normal stem cell counterpart.5
+
+The fact that multiple mutations are necessary for a cell to become cancerous has implications for the origin of cancer cells. As both progenitor cells and mature cells have a very limited lifespan, it is unlikely that all the mutations could occur during their short life. In addition, to maintain the disease, cancer cells must overcome the constraint on self-renewal and proliferation. Since cancer stem cells must posses the ability to self-renew, it follows that they are derived from either self-renewing normal stem cells, which could be transformed by altering only proliferative pathways, or from progenitor cells that have acquired the ability to self-renew as a result of oncogenic mutations (Figure 1). Although stem cells could very often be the target of genetic mutations necessary for malignant transformation, in other cases, cancer can originate from transformed restricted progenitor cells or even differentiated cells (Figure 1). On the other hand, it has been demonstrated that normal progenitor cells can have great plasticity and can reprogram themselves in response to some signal transduction cascades. For example, normal oligodendrocyte precursor cells can be induced to acquire stem cell-like properties. Thus, it can be hypothesized that mutated progenitor cells also can acquire ‘stem cell behavior’.12
+
+Figure 1
+figure 1
+A simplified model of normal and cancer stem cell differentiation in the brain. NSCs can be committed toward restricted progenitors, which in turn differentiate into either neurons or astrocytes or oligodendrocytes. Cancer can develop when self-renewing normal stem cells accumulate mutations and are transformed by altering only proliferative pathways. It is also possible that cancer cell development is the result of oncogenic mutations in restricted progenitor cells that acquire the ability to self-renew
+
+Full size image
+
+Brain tumors
+Primary brain tumors can be classified in terms of what type of cell the tumor began as. Gliomas are the most common form of primary brain tumors.13 Among gliomas, there are astrocytomas, which derive from star-shaped astrocyte-like cells and often arise in the cerebrum. In children, they occur in the brain stem, cerebrum and cerebellum. High-grade astrocytomas are called anaplastic astrocytomas (grade III) and multiform glioblastomas (grade IV).13 Other gliomas are brain stem gliomas, ependymomas and oligodendrogliomas. Brain tumors also derive from neuroblastic-like cells of the cerebellum, such as medulloblastomas, which are the most common brain tumor in children.13 Other nonglial tumors include schwannomas, craniopharyngiomas and germinomas.13
+
+Brain tumors and cancer stem cells
+To identify a stem cell some key features must be evaluated: proliferation, self-renewal and ability to generate functional differentiated progeny (multipotentiality).1, 2, 4 The assessment of these properties is often a difficult task. However, there are in vitro methods for isolation of stem cells and evaluation of their features. One of the most widespread in vitro models to study neurogenesis is based on neurosphere cultures.2, 3 These are long-term cultures of cells isolated from embryonic, postnatal and adult brains that can be grown in suspension as clonal aggregates (neurospheres) and are capable of both self-renewal and differentiation into neurons, astrocytes and oligodendrocytes.2, 3 Clonal analysis and serial subcloning experiments are important to demonstrate self-renewal and multipotentiality.14
+
+Tests on self-renewal properties of putative stem cells are carried out by growing cells at limiting dilutions. Under these conditions, the proliferation of single cells that grow to give rise to cell clusters is evaluated. These cell aggregates are dissociated again at the level of a single cell and the growth assay is repeated several times. Cells originating from a single clone are induced to differentiate (e.g. with mitogen starvation) and the progeny is identified to evaluate multipotentiality.14 These assays (and/or similar analyses) should be employed to clearly identify brain cancer stem cells also. Nevertheless, several studies demonstrating the existence of brain cancer stem cells are based on presumed and indirect data and do not completely fulfill the experimental paradigms described above.
+
+In particular, it should be remembered that isolation of cells from brain cancers that are capable of growing as neurospheres and differentiating into neural cells is not sufficient to unequivocally identify true cancer stem cells. In fact, neurospheres are composed of heterogeneous populations of NSCs and precursors.15 In a single neurosphere not all the cells can generate new clones when the cluster is dissociated and plated at the level of a single cell. Moreover, clones originating from single cells could give rise to either a progeny of multiple cell types (multipotentiality) or only a specific cell type (unipotentiality).1, 15
+
+For all the above reasons, the identity of malignant cells in brain tumors remains unclear even if several studies have shown the involvement of somatic stem cells in cancerogenesis.16 The studies described in the following paragraphs, however, are those showing the most compelling evidence of the existence of putative brain cancer stem cells.
+
+Preliminary studies have suggested that brain cancers may contain and arise from stem cells. Glioblastoma multiforme contains cells that express neural and glial markers, indicating that there may be multipotent NSC-like cells; furthermore, NSCs, as well as some brain cancer cells, express nestin, an intermediate neurofilament typical of neural progenitors.17 It was shown that the main area of distribution of several brain tumors is the ventricular zone, the location of NSCs.18, 19
+
+Holland et al.20 carried out a pivotal study showing that mutated NSCs could induce glioblastoma. They transferred genes encoding activated Ras and Akt to astrocytes and neural progenitor cells in mice. The combination of two genes induced gliomas only after gene transfer to neural precursors and not to differentiated astrocytes. Their conclusions were that terminally differentiated astrocytes had reduced tumorigenicity and that an undifferentiated neural/glial progenitor could be the founder cell for glioblastoma.
+
+An in-depth study performed by Kornblum's group demonstrated that several pediatric brain tumors contain cells with properties similar to NSCs.21 They obtained dissociated cells from 22 tumors (including astrocytomas, glioblastomas, medulloblastomas, primitive neuroectodermal tumors and ependymomas). As described for NSCs, cells were assayed for their ability to produce neurospheres. All tumors yielded proliferating neurospheres. For most tumors, undifferentiated neurospheres contained nestin neurofilaments as observed in NSCs. Under differentiating conditions cell division in the spheres decreased significantly and several cells resembling neurons and astrocytes were produced, as detected by beta-III-tubulin and glial fibrillary acidic protein (GFAP) immunostaining, respectively. However, although multipotent, the percentage of differentiated cell types produced varied considerably from one tumor to another and repeated characteristic phenotypes of parental tumors. Primary neurospheres were dissociated into single-cell suspension and plated at clonal density in proliferating medium. Individual cells from all tumors had the ability to form new neurospheres and subsequently differentiated into multiple cell types suggesting that brain tumors contain mutated NSCs having self-renewal and multipotency features.
+
+Singh et al.22 applied the techniques used to isolate normal NSCs to analyze several human brain tumors (medulloblastomas, astrocytomas and ependymomas). Dissociated tumor cells were grown as neurospheres and showed immunoreactivity for nestin and CD133. All dissociated primary tumors formed secondary spheres, exhibiting high potential for self-renewal. Applying conditions for normal NSC differentiation demonstrated that all tumor neurospheres were capable of multi-lineage differentiation. Nevertheless, the majority of cells differentiated into phenotypes typical of the original tumor: spheres from medulloblastomas differentiated mainly into neuronal-like cells, while astrocytoma-derived spheres yielded mainly GFAP-positive mature cells. Thus, tumor neurospheres could be composed mainly by progenitor-restricted cells and not by ‘true’ stem cells. The authors, however, speculated that specific extrinsic signals (e.g. a combination of growth factors) could contribute to induce multilineage differentiation of tumor neurospheres.22
+
+A key issue in normal and cancerous stem cell studies is the identification of specific molecular markers that can contribute to isolate and study ‘pure’ stem cell populations. Normal NSCs as well as early progenitors express the CD133 antigen, whereas full mature cells did not. This antigen could then be considered a marker of immature neuroglial cells, not specifically restricted to stem cell populations.
+
+The biological in vitro assays on neurospheres allow characterization of NSCs; however, further studies on these cells are limited by a lack of cell surface markers necessary for the isolation of a ‘pure’ stem cell population. Singh et al.23 made a key step toward a rigorous characterization of NSCs. They demonstrated that acutely dissociated tumor cells can be fractioned into CD133-positive and -negative populations. CD133-negative cells did not proliferate and did not form spheres. On the other hand, CD133-positive fractions could contain cancer stem cells. In fact, they generated clusters of clonally derived spheres that self-renewed and proliferated and differentiated to repeat mainly the phenotype of tumor from which they were obtained. These CD133-positive spheres, when dissociated into single cells and injected into brains of mice, drove tumor growth and dissemination.23 As few as 100 of CD133-positive cells formed tumors that could be serially transmitted from mouse to mouse, whereas CD133-negative cells failed to do so. These studies, besides providing a useful marker for tumor cell identification, suggest that the cellular hierarchy of brain tumors could be similar to that of normal brain, with cancer stem cells probably derived from normal CD133-positive stem or progenitor cells.
+
+Two more studies provided further evidence of the existence of ‘cancer stem cells’. These focused on the identification of cancer stem cells from glioblastoma multiforme.24, 25
+
+Galli et al.24 evaluated the presence of neural precursors within human brain tumors (medulloblastomas and glioblastomas) from postsurgery specimens. Dissociated cells were plated at clonal density in serum-free medium, and supplemented with epidermal growth factor (EGF) and basic FGF (experimental conditions that are typical of NSC expansion). The cell cultures produced clones resembling the classical neurospheres formed by NSCs. These clones were assessed for their capacity of long-term proliferation, self-renewal, multipotency and their tumorigenicity. Although cells derived from several medulloblastomas showed the highest clonogenic properties, they failed in establish long-term cultures. On the other hand, several glioblastoma cultures were expanded for more than 80 passages. The clonally derived glioblastoma cells underwent differentiation following mitogen removal from culture media as observed for normal NSCs. The cells had multipotential properties and differentiated into GFAP-positive astrocyte-like cells and neuron-like cells (positive for several neural markers). It is worth noting that several differentiated cells expressed both neural and glial markers. This phenotype likely reflects the trigger of an aberrant maturation program that was never detected in normal NSCs. If mutated NSCs were obtained from tumor specimens, then they must have tumorigenic potential. To demonstrate this capacity, the glioblastoma-derived NSC lines were injected into immunosuppressed animals. All the cell lines reproducibly gave rise to tumors, whereas normal human fetal NSCs did not.
+
+The results of Galli et al. were highly consistent with those of Yuan et al.25 They grew six glioblastoma primary cultures as a monolayer and then switched to culture conditions known to permit formation of neurospheres. The cells were then grown at clonal density and self-renewal as well as multipotential properties were detected. The authors also showed that glioblastoma-derived neurospheres express two genes highly characteristic of NSCs, such as nestin and CD133, a cell surface marker. They further demonstrated that glioblastoma spheres represent the tumor stem cells. In fact, the implant of spheres into the brain of nude mice induced the formation of in situ tumors. On the contrary, no tumors were detected when nonsphere forming monolayer cells (also derived from primary glioblastoma cultures) were injected into mice. The authors also demonstrated that glioblastoma spheres possess a striking abnormal differentiation property. Both normal and glioblastoma spheres were dissociated into single-cell suspensions and induced to differentiate. Fully differentiated cells were then switched to NSC proliferating conditions. New spheres were obtained from glioblastoma-derived cells, while no spheres were observed from normal samples. The abnormal characteristic of glioblastoma spheres may be responsible for maintaining the tumor stem cell pool and also for generating the progeny.25
+
+Molecular pathways involved in cancer stem cell physiopathology
+Since tumor stem cells share common properties with normal stem cells it is plausible that they have overlapping regulation mechanisms. Indeed, one of the most outstanding questions concerning the biology of stem cells is: how do multipotent stem cells select a particular differentiation pathway and start to differentiate? On the other hand, how do stem cells decide to maintain self-renewal properties and continue to proliferate? Do the genes that control cell cycle have a role both in these aspects of normal stem cell life and in their neoplastic transformation? Recent studies have demonstrated that a ‘plethora’ of genes and signalling pathways are involved in the regulation of the above-described processes. Among these, the Sonic Hedgehog (Shh), Notch and Wnt signal transduction pathways play a major role in stem cell regulation.26, 27, 28 A key role has also been demonstrated for genes associated with chromatin regulation and in those involved in the cell cycle.4, 29, 30 It is worth noting that there is much evidence demonstrating that deregulation of these pathways also supports tumorigenesis.
+
+Hedgehog, Notch and Wnt
+Hedgehog genes encode for secreted proteins that activate a membrane receptor complex. This in turn activates the transcription factors of GLI family (Figure 2a).31 In mammals there are at least three hedgehog family members: Desert, Indian and Sonic. The last one is the most widely expressed.32 Recent studies have demonstrated that Shh signalling regulates adult neural progenitor proliferation and self-renewal.33, 34 Several studies showed that Shh-GLI signalling plays a role in brain tumor biology, for example, deregulated activation of Shh pathway in neural progenitor cells of the cerebellum induces medulloblastoma in mice.31, 35, 36
+
+Figure 2
+figure 2
+(a) Schematic diagram of signaling pathways that are involved in normal and cancer stem cell biology. Wnt binds its receptor(s) and activates Disheveled (Dsh), this inhibits glycogen synthesis kinase-3 (GSK). The inhibition of GSK allows nuclear accumulation of β-catenin molecules that associate with several transcription factors and activate responsive promoters. Notch is a transmembrane protein that when activated by ligand binding (such as Delta protein) is cleaved into several segments. The intracellular domain enters the nucleus and binds DNA promoter regions through interaction with HLH transcription factors. Sonic hedgehog (Shh) is a membrane-anchored cell surface ligand that inhibits the cleavage of transcription factor Gli, thus allowing the activation of Gli-responsive promoters. (b) Schematic diagram of cell cycle-related genes. G1/S cyclin/CDK complexes and some of the proteins involved in their regulation are depicted in the picture. Cyclin/CDK complexes promote cell cycle progression through phosphorylation of several targets, such as the members of the retinoblastoma family. p53 inhibits cell cycle proliferation mainly through the induction of p21, a CKI. Rb could promote cell differentiation by inactivating the E2F-dependent transcription of genes involved in cell proliferation and, at the same time, relieve Id2 inhibition of bHLH transcription factors that promote the expression of lineage-specific genes involved in differentiation. Note that not all the CKI-, p53- and Rb-dependent pathways are depicted
+
+Full size image
+
+Notch proteins are located in the cell membrane and when activated by membrane-associated ligands (Delta family proteins) they release by proteolysis their intracellular domains. These in turn bind HLH transcription factors (Figure 2a).32 Notch activation is critical to regulate NSC self-renewal in some settings, while it promotes glial differentiation in others.37, 38 High expression of Notch2 protein was found in medulloblastomas. Moreover, the expression of truncated, constitutively active Notch2 in embryonal brain tumor cell lines promoted cell proliferation, soft agar colony formation and xenograft growth.39
+
+The Wnt proteins are extracellular molecules that bind the receptor of the Frizzled family.32 When Wnt binds its receptor activates a pathway that inhibits proteolysis of the protein β-catenin that enters the nucleus and promotes gene transcription through interaction with TCF/LEF proteins (Figure 2a). Increased expression of β-catenin promotes stem cell renewal in the nervous system. Moreover, Wnt-β-catenin pathway has a role in cell fate specification of neural crest stem cells.27 Medulloblastomas are tumors in which an alteration of Wnt signalling has been described.36
+
+Chromatin remodelling
+It is well known that modification of nucleosome structure is an important regulatory mechanism of gene expression. Polycomb family members repress transcription through chromatin remodelling.30 Among the component of Polycomb complexes Bmi-1 gene plays a pivotal role in stem cell biology. This gene is required for the self-renewal of NSCs, both from central and peripheral nervous systems. However, it has no role in regulation of proliferation, at least in restricted neural progenitor cells.40 Altered expression of Bmi-1 has been associated with several forms of cancers, including lymphomas and colorectal carcinomas.30, 41, 42 In addition, brain tumor-derived neurospheres maintained high Bmi-1 expression under both proliferative and differentiative conditions. On the other hand, normal NSCs had significantly less Bmi-1 expression that further decreased with differentiation.21
+
+Cell cycle regulators
+Among the negative regulators of the cell cycle, the Rb family members, p53 protein and p27Kip1 play a prominent role in normal neuroglial differentiation and transformation.29, 43, 44, 45, 46, 47
+
+The retinoblastoma (RB) family genes, RB, RB2/p130 and p107, play a major role in controlling the cell cycle. This function is mainly accomplished by the differential binding of RB family proteins to the members of the E2F family of nuclear factors, which in turn regulate the transcription of several genes involved in DNA synthesis and cell cycle progression (Figure 2b).43
+
+Several data indicate that pRb and pRb2/p130 play a crucial role in neurogenesis. In mouse embryos that lack both copies of the RB gene, dividing neural precursor cells are found outside of the normal neurogenic regions in both the central and peripheral nervous systems. Many of the ectopically dividing cells die by apoptosis; moreover, the expression of several neural differentiation markers is greatly reduced.29, 46 Mice lacking either pRb2/p130 or p107 in a mixed 129/Sv:C57Bl/6J genetic background exhibited no overt phenotype.29 However, in a Balb/CJ genetic background the knockdown of pRb2/p130 produced embryonic lethality associated with increased cellular proliferation and apoptosis in the neural tube.47 Several in vitro studies confirmed that the RB family plays a major role in neural cell differentiation.29
+
+Deregulation of RB-related pathways is frequent in several forms of cancer. Recently, it has been shown that somatic inactivation of Rb induces medulloblastoma in p53-null mice.48
+
+The tumor suppressor p53 gene is involved in cell cycle regulation and differentiation in several biological systems. p53 is a transcription factor that can transactivate genes of importance both for apoptosis and for G1 arrest.49 The molecular mechanisms for p53-mediated differentiation are not clear but appear to rely on the induction of p21 or on cell cycle arrest mediated by the hypophosphorylation of pRb (Figure 2b).49
+
+Evidence of a key role for p53 in regulating cell proliferation and differentiation in stem cells is provided by studies on embryonic stem cells. Lin et al.50 showed that p53 can bind to the promoter of Nanog, a gene involved in self-renewal, and that it downregulates its expression. This, in turn induces cell differentiation. In addition, it has been shown that the retinoic acid-mediated neural differentiation of embryonic stem cells relies upon p53 activation.51
+
+The involvement of p53 in brain tumors has been well established. p53 is thought to be inactivated in early phases of gliomagenesis, greatly contributing to malignancy.44, 52 Although p53 gene mutations are uncommon in medulloblastomas,53 it has been proposed that p53 could cooperate with other genes in medulloblastoma development.54 Mice heterozygous for the gene patched, and hence having a deregulated Shh pathway, are prone to medulloblastoma development. In these mice, the inactivation of the p53 gene accelerates the trigger of medulloblastomas. In p53 null mice, the inactivation of polyADP-ribose polymerase (PARP), which is implicated in the DNA repair process, causes medulloblastomas.55
+
+Cyclin/cyclin-dependent kinase (CDK) complexes promote cell cycle progression and their activity is negatively regulated by cyclin kinase inhibitors (CKIs).29 Among the several CKIs, p27Kip1 has a key role in NSC biology (Figure 2b).56 NSCs, highly proliferating progenitors and more committed neuroblasts are located in the sub-ventricular zone of adult mammalian brains. It has been demonstrated that knocking down p27Kip1 in mice, while not affecting the number of stem cells, greatly increases proliferation of progenitor cells and reduces the number of more differentiated cells.57
+
+Detailed information about the regulation and role of p27Kip1 protein in vertebrate neural cells emerged from studies on oligodendrocyte commitment and differentiation. A useful model for studying glial cell development is the O-2A bi-potential progenitor cell, which can differentiate into either type 2 astrocytes or oligodendrocytes.58 Under conditions that promote differentiation of wild-type cells, O-2A p27Kip1-deficient cells showed impaired growth arrest after mitogen starvation. However, a fraction of these cells was still able to undergo cell cycle exit and to perform a proper differentiation program.59 Impaired growth arrest correlated with continued progression of O-2A cells into the S phase. This observation suggests that p27Kip1 is a component of the mechanism, which regulates terminal mitosis of O-2A cells, but at the same time this protein has no role in the differentiation process.59
+
+Aberrant proliferation of malignant cells, such as glioma cells, could also be due to a lack of p27Kip1 activity; in fact, in several gliomas, the expression of p27Kip1 is very low.60
+
+Concluding remarks: cancer stem cells and clinical impact
+The above-described studies showed that a so-called brain cancer stem cell, with high-proliferative capacity, self-renewal properties and multilineage potential, could be responsible for tumor development. This did not rule out the possibility that transformation and dedifferentiation of more mature brain cells could contribute to tumorigenesis.
+
+Nevertheless, there are important consequences for cancer treatment if the growth of tumors is, at least in part, dependent on cancer stem cell population. Clinically, malignant tumors are often treated as a largely homogeneous group of cells with similar replicative and invasive potential. Thus, current therapies fail to account for the potential differences in drug sensitivity or target expression between cancer stem cells and nontumorigenic cancer cells. A differential sensitivity to treatment between these two classes of cells may account for the difficulty in developing therapies that are consistently able to eradicate some forms of cancer. In fact, if only a rare subset of tumor stem cells drives tumor formation, then the goal of therapy should be to identify this population and then develop therapies that target it. It is obvious that the expression patterns of normal stem cells, such as the pathways involved in regulation proliferation, differentiation and cell death, should be investigated in depth to identify future therapeutic targets for cancer treatment.
+
+Studies on the molecular pathways that, when altered, could give rise to cancer stem cells are of great interest for stem cell therapy also. In fact, the occurrence of cancer must be avoided after stem cell/progenitor transplantation. This will be of importance when using adult stem cells from older individuals, as these cells may have accumulated mutations over their lifetime.
+
+Abbreviations
+NSCs:
+neural stem cells
+
+GFAP:
+glial fibrillary acidic protein
+
+EGF:
+epidermal growth factor
+
+CDK:
+cyclin-dependent kinase
+
+CKI:
+cyclin kinase inhibitor
+
+PARP:
+polyADP-ribose polymerase
+
+References
+Reynolds BA and Weiss S (1996) Clonal and population analyses demonstrate that an EGF-responsive mammalian embryonic CNS precursor is a stem cell. Dev. Biol. 175: 1–13
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Gage FH (2000) Mammalian neural stem cells. Science 287: 1433–1438
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Reynolds BA and Weiss S (1992) Generation of neurons and astrocytes from isolated cells of the adult mammalian central nervous system. Science 255: 1707–1710
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Morrison SJ, Shah NM and Anderson DJ (1997) Regulatory mechanisms in stem cell biology. Cell 88: 287–298
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Reya T, Morrison SJ, Clarke MF and Weissman IL (2001) Stem cells, cancer, and cancer stem cells. Nature 414: 105–111
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Hope KJ, Jin L and Dick JE (2004) Acute myeloid leukemia originates from a hierarchy of leukemic stem cell classes that differ in self-renewal capacity. Nat. Immunol. 5: 738–743
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Bonnet D and Dick JE (1997) Human acute myeloid leukemia is organized as a hierarchy that originates from a primitive hematopoietic cell. Nat. Med. 3: 730–737
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Al-Hajj M, Wicha MS, Benito-Hernandez A, Morrison SJ and Clarke MF (2003) Prospective identification of tumorigenic breast cancer cells. Proc. Natl. Acad. Sci. USA 100: 3983–3988
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Park CH, Bergsagel DE and McCulloch EA (1971) Mouse myeloma tumor stem cells: a primary cell culture assay. J. Natl. Cancer Inst. 46: 411–422
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Hudson DL (2004) Epithelial stem cells in human prostate growth and disease. Prostate Cancer Prostatic Dis. 7: 188–194
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Meszoely IM, Means AL, Scoggins CR and Leach SD (2001) Developmental aspects of early pancreatic cancer. Cancer J. 7: 242–250
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Kondo T, Setoguchi T and Taga T (2004) Persistence of a small subpopulation of cancer stem-like cells in the C6 glioma cell line. Proc. Natl. Acad. Sci. USA 101: 781–786
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Zulch KJ (1986) Brain tumors: their biology and pathology 3rd edn Berlin: Springer-Verlag pp. 704
+
+Book
+ 
+Google Scholar
+ 
+
+Vescovi A, Galli R and Gritti A (2002) Neural stem cells: methods and protocols. In: Methods in Molecular Biology Zigova T, Sanberg PR and Sanchez-Ramos JR (eds) Totowa, NJ: Humana Press Inc. pp. 115–123
+
+Google Scholar
+ 
+
+Suslov ON, Kukekov VG, Ignatova TN and Steindler DA (2002) Neural stem cell heterogeneity demonstrated by molecular phenotyping of clonal neurospheres. Proc. Natl. Acad. Sci. USA 99: 14506–14511
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Oliver TG and Wechsler-Reya RJ (2004) Getting at the root and stem of brain tumors. Neuron 42: 885–888
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Almqvist PM, Mah R, Lendahl U, Jacobsson B and Hendson G (2002) Immunohistochemical detection of nestin in pediatric brain tumors. J. Histochem. Cytochem. 50: 147–158
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Alvarez-Buylla A and Garcia-Verdugo JM (2002) Neurogenesis in adult subventricular zone. J. Neurosci. 22: 629–634
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Sutton LN, Phillips P and Lange B (1992) Midline supratentorial tumors. Neurosurg. Clin. North Am. 3: 821–837
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Holland EC, Celestino J, Dai C, Schaefer L, Sawaya RE and Fuller GN (2000) Combined activation of Ras and Akt in neural progenitors induces glioblastoma formation in mice. Nat. Genet. 25: 55–57
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Hemmati HD, Nakano I, Lazareff JA, Masterman-Smith M, Geschwind DH, Bronner-Fraser M and Kornblum HI (2003) Cancerous stem cells can arise from pediatric brain tumors. Proc. Natl. Acad. Sci. USA 100: 15178–15183
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Singh SK, Clarke ID, Terasaki M, Bonn VE, Hawkins C, Squire J and Dirks PB (2003) Identification of a cancer stem cell in human brain tumors. Cancer Res. 63: 5821–5828
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Singh SK, Hawkins C, Clarke ID, Squire JA, Bayani J, Hide T, Henkelman RM, Cusimano MD and Dirks PB (2004) Identification of human brain tumour initiating cells. Nature 432: 396–401
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Galli R, Binda E, Orfanelli U, Cipelletti B, Gritti A, De Vitis S, Fiocco R, Foroni C, Dimeco F and Vescovi A (2004) Isolation and characterization of tumorigenic, stem-like neural precursors from human glioblastoma. Cancer Res. 64: 7011–7021
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Yuan X, Curtin J, Xiong Y, Liu G, Waschsmann-Hogiu S, Farkas DL, Black KL and Yu JS (2004) Isolation of cancer stem cells from adult glioblastoma multiforme. Oncogene 23: 9392–9400
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Varnum-Finney B, Xu L, Brashem-Stein C, Nourigat C, Flowers D, Bakkour S, Pear WS and Bernstein ID (2000) Pluripotent, cytokine-dependent, hematopoietic stem cells are immortalized by constitutive Notch1 signaling. Nat. Med. 6: 1278–1281
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Lee HY, Kleber M, Hari L, Brault V, Suter U, Taketo MM, Kemler R and Sommer L (2004) Instructive role of Wnt/beta-catenin in sensory fate specification in neural crest stem cells. Science 303: 1020–1023
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Bhardwaj G, Murdoch B, Wu D, Baker DP, Williams KP, Chadwick K, Ling LE, Karanu FN and Bhatia M (2001) Sonic hedgehog induces the proliferation of primitive human hematopoietic cells via BMP regulation. Nat. Immunol. 2: 172–180
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Galderisi U, Jori FP and Giordano A (2003) Cell cycle regulation and neural differentiation. Oncogene 22: 5208–5219
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Valk-Lingbeek ME, Bruggeman SW and van Lohuizen M (2004) Stem cells and cancer; the polycomb connection. Cell 118: 409–418
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Ruiz i Altaba A, Sanchez P and Dahmane N (2002) Gli and hedgehog in cancer: tumours, embryos and stem cells. Nat. Rev. Cancer 2: 361–372
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Brivanlou AH and Darnell Jr JE (2002) Signal transduction and the control of gene expression. Science 295: 813–818
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Wechsler-Reya RJ and Scott MP (1999) Control of neuronal precursor proliferation in the cerebellum by Sonic Hedgehog. Neuron 22: 103–114
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Machold R, Hayashi S, Rutlin M, Muzumdar MD, Nery S, Corbin JG, Gritli-Linde A, Dellovade T, Porter JA, Rubin LL, Dudek H, McMahon AP and Fishell G (2003) Sonic hedgehog is required for progenitor cell maintenance in telencephalic stem cell niches. Neuron 39: 937–950
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Rao G, Pedone CA, Valle LD, Reiss K, Holland EC and Fults DW (2004) Sonic hedgehog and insulin-like growth factor signaling synergize to induce medulloblastoma formation from nestin-expressing neural progenitors in mice. Oncogene 23: 6156–6162
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Pietsch T, Taylor MD and Rutka JT (2004) Molecular pathogenesis of childhood brain tumors. J. Neurooncol. 70: 203–215
+
+Article
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Das AV, James J, Zhao X, Rahnenfuhrer J and Ahmad I (2004) Identification of c-Kit receptor as a regulator of adult neural stem cells in the mammalian eye: interactions with Notch signaling. Dev. Biol. 273: 87–105
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Hitoshi S, Seaberg RM, Koscik C, Alexson T, Kusunoki S, Kanazawa I, Tsuji S and van der Kooy D (2004) Primitive neural stem cells from the mammalian epiblast differentiate to definitive neural stem cells under the control of Notch signaling. Genes Dev. 18: 1806–1811
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Fan X, Mikolaenko I, Elhassan I, Ni X, Wang Y, Ball D, Brat DJ, Perry A and Eberhart CG (2004) Notch1 and notch2 have opposite effects on embryonal brain tumor growth. Cancer Res. 64: 7787–7793
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Molofsky AV, Pardal R, Iwashita T, Park IK, Clarke MF and Morrison SJ (2003) Bmi-1 dependence distinguishes neural stem cell self-renewal from progenitor proliferation. Nature 425: 962–967
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Kim JH, Yoon SY, Kim CN, Joo JH, Moon SK, Choe IS, Choe YK and Kim JW (2004) The Bmi-1 oncoprotein is overexpressed in human colorectal cancer and correlates with the reduced p16INK4a/p14ARF proteins. Cancer Lett. 203: 217–224
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Dukers DF, van Galen JC, Giroth C, Jansen P, Sewalt RG, Otte AP, Kluin-Nelemans HC, Meijer CJ and Raaphorst FM (2004) Unique polycomb gene expression pattern in Hodgkin's lymphoma and Hodgkin's lymphoma-derived cell lines. Am. J. Pathol. 164: 873–881
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Stiegler P, Kasten M and Giordano A (1998) The RB family of cell cycle regulatory factors. J. Cell. Biochem. Suppl. 30–31: 30–36
+
+Article
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Marutani M, Tonoki H, Tada M, Takahashi M, Kashiwazaki H, Hida Y, Hamada J, Asaka M and Moriuchi T (1999) Dominant-negative mutations of the tumor suppressor p53 relating to early onset of glioblastoma multiforme. Cancer Res. 59: 4765–4769
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Park MS, Rosai J, Nguyen HT, Capodieci P, Cordon-Cardo C and Koff A (1999) p27 and Rb are on overlapping pathways suppressing tumorigenesis in mice. Proc. Natl. Acad. Sci. USA 96: 6382–6387
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Lee EY, Chang CY, Hu N, Wang CJ, Lai CC, Herrup K, Lee WH and Bradley A (1992) Mice deficient for Rb are nonviable and show defects in neurogenesis and hematopoiesis. Nature 359: 288–294
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+LeCouter JE, Kablar B, Whyte PF, Ying C and Rudnicki MA (1998) Strain-dependent embryonic lethality in mice lacking the retinoblastoma-related p130 gene. Development 125: 4669–4679
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Marino S, Vooijs M, van Der Gulden H, Jonkers J and Berns A (2000) Induction of medulloblastomas in p53-null mutant mice by somatic inactivation of Rb in the external granular layer cells of the cerebellum. Genes Dev. 14: 994–1004
+
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Giacca A and Kastan M (1998) The complexity of p53 modulation: emerging patterns from divergent signals. Genes Develo. 12: 2773–2783
+
+Google Scholar
+ 
+
+Lin T, Chao C, Saito S, Mazur SJ, Murphy ME, Appella E and Xu Y (2005) p53 induces differentiation of mouse embryonic stem cells by suppressing Nanog expression. Nat. Cell Biol. 7: 165–171
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Sarkar SA and Sharma RP (2002) All-trans-retinoic acid-mediated modulation of p53 during neural differentiation in murine embryonic stem cells. Cell Biol. Toxicol. 18: 243–257
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Shiraishi S, Tada K, Nakamura H, Makino K, Kochi M, Saya H, Kuratsu J and Ushio Y (2002) Influence of p53 mutations on prognosis of patients with glioblastoma. Cancer 95: 249–257
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Adesina AM, Nalbantoglu J and Cavenee WK (1994) p53 gene mutation and mdm2 gene amplification are uncommon in medulloblastoma. Cancer Res. 54: 5649–5651
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Wetmore C, Eberhart DE and Curran T (2001) Loss of p53 but not ARF accelerates medulloblastoma in mice heterozygous for patched. Cancer Res. 61: 513–516
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Tong WM, Ohgaki H, Huang H, Granier C, Kleihues P and Wang ZQ (2003) Null mutation of DNA strand break-binding molecule poly(ADP-ribose) polymerase causes medulloblastomas in p53(−/−) mice. Am. J. Pathol. 162: 343–352
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Cheng T, Rodrigues N, Dombkowski D, Stier S and Scadden DT (2000) Stem cell repopulation efficiency but not pool size is governed by p27(kip1). Nat. Med. 6: 1235–1240
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Doetsch F, Verdugo JM, Caille I, Alvarez-Buylla A, Chao MV and Casaccia-Bonnefil P (2002) Lack of the cell-cycle inhibitor p27Kip1 results in selective increase of transit-amplifying cells for adult neurogenesis. J. Neurosci. 22: 2255–2264
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Raff MC, Durand B and Gao FB (1998) Cell number control and timing in animal development: the oligodendrocyte cell lineage. Int. J. Dev. Biol. 42 (3 Spec No): 263–267
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Casaccia-Bonnefil P, Tikoo R, Kiyokawa H, Friedrich Jr V, Chao MV and Koff A (1997) Oligodendrocyte precursor differentiation is perturbed in the absence of the cyclin-dependent kinase inhibitor p27Kip1. Genes Dev. 11: 2335–2346
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Narita Y, Nagane M, Mishima K, Huang HJ, Furnari FB and Cavenee WK (2002) Mutant epidermal growth factor receptor signaling down-regulates p27 through activation of the phosphatidylinositol 3-kinase/Akt pathway in glioblastomas. Cancer Res. 62: 6764–6769
+
+CAS
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Download references
+
+Author information
+Authors and Affiliations
+Sbarro Institute for Cancer Research and Molecular Medicine, College of Science and Technology, Temple University, Philadelphia, PA, USA
+U Galderisi & A Giordano
+Department of Experimental Medicine, Section of Biotechnology and Molecular Biology, Excellence Research Center for Cardiovascular Diseases, Second University of Naples, Naples, Italy
+U Galderisi & M Cipollaro
+Corresponding author
+Correspondence to U Galderisi.
+
+Additional information
+Edited by G Cossu
+
+Rights and permissions
+Reprints and Permissions
+
+About this article
+Cite this article
+Galderisi, U., Cipollaro, M. & Giordano, A. Stem cells and brain cancer. Cell Death Differ 13, 5–11 (2006). https://doi.org/10.1038/sj.cdd.4401757
+
+Download citation
+
+Received
+16 March 2005
+Revised
+17 June 2005
+Accepted
+01 July 2005
+Published
+26 August 2005
+Issue Date
+01 January 2006
+DOI
+https://doi.org/10.1038/sj.cdd.4401757
+Share this article
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Keywords
+neural stem cells
+glioblastoma
+medulloblastoma
+astrocytoma
+self-renewal
+cell cycle
+This article is cited by
+DCTGM: A Novel Dual-channel Transformer Graph Model for miRNA-disease Association Prediction
+Shanchen PangYu ZhuangZhihan Lv
+Cognitive Computation (2022)
+
+Gene analysis and dynamics of tumor stem cells in human glioblastoma cells after radiation
+Akiko SasakiTakato NakajoKatsuji Oguchi
+Human Cell (2013)
+
+Neural Progenitor and Hemopoietic Stem Cells Inhibit the Growth of Low-Differentiated Glioma
+V. P. BaklaushevN. F. GrinenkoV. P. Chekhonin
+Bulletin of Experimental Biology and Medicine (2012)
+
+Low concentrations of isothiocyanates protect mesenchymal stem cells from oxidative injuries, while high concentrations exacerbate DNA damage
+Fulvia ZanichelliStefania CapassoUmberto Galderisi
+Apoptosis (2012)
+
+SOX2-RNAi attenuates S-phase entry and induces RhoA-dependent switch to protease-independent amoeboid migration in human glioma cells
+Felix OppelNadja MüllerAchim Temme
+Molecular Cancer (2011)
+
+Download PDF
+Sections
+Figures
+References
+Abstract
+Introduction
+Abbreviations
+References
+Author information
+Additional information
+Rights and permissions
+About this article
+This article is cited by
+Cell Death & Differentiation (Cell Death Differ)  ISSN 1476-5403 (online)  ISSN 1350-9047 (print)
+nature.com sitemap
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+Discover content
+
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+Publishing policies
+
+Nature portfolio policies
+Open access
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Live Expert Trainer-led workshops
+Research Solutions
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+Career development
+
+Nature Careers
+Nature Conferences
+Nature events
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Korea
+Nature Middle East
+Privacy Policy Use of cookies  Your privacy choices/Manage cookies  Legal notice Accessibility statement Terms & Conditions Your US state privacy rights
+ Springer Nature
+© 2023 Springer Nature Limited
+ 
